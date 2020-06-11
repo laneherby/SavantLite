@@ -1,0 +1,13 @@
+1. Select box arrangement √
+2. top app bar √
+3. bottom footer bar
+4. Create loading widget
+6. Search and Player list alignment -- Full width list item
+7. Button, Stat Select, and loading widget alignment
+8. Style Player list
+9. Style select boxes
+10. chart alignment
+11. chart styling
+12. chart titles
+13. mobile styling
+14. test

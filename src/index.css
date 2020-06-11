@@ -1,0 +1,27 @@
+.vx-axis-label tspan {
+  fill: rgba(255, 255, 255, 0.7);
+  font-size: 1.2rem;
+  font-weight: 400;
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+}
+
+.vx-line {
+  stroke: rgba(255, 255, 255, 0.7);
+}
+
+.vx-axis-tick text {
+  fill: rgba(255, 255, 255, 0.7);
+}
+
+.vx-axis-tick tspan {
+  font-size: 0.75rem;
+  max-width: 45px;
+}
+
+.MuiButton-label {
+  text-transform: none;
+}
+
+.MuiButton-label h6 {
+  font-size: 1rem;
+}
